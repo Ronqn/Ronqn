@@ -23,10 +23,6 @@
 - ◽ Anime
 - ◽ Open Source
 
-</br>
-</br>
-</br>
-
 # Get in touch :
 
 Want to message me? Feel free to contact me directly on Github! ✔
