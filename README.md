@@ -13,15 +13,15 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Ronqn/Ronqn/blob/master/assets/NatureProphet.gif">
 
 ### - Learning :
-- ◽ Python
-- ◽ Advanced Networking
-- ◽ Anything Linux related
+- Python
+- Advanced Networking
+- Anything Linux related
 
 ### - Hobbies : 
-- ◽ Gaming
-- ◽ Warhammer
-- ◽ Anime
-- ◽ Open Source
+- Gaming
+- Warhammer
+- Anime
+- Open Source
 
 # Get in touch :
 
