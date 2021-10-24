@@ -13,6 +13,7 @@
 ### - Who am I?
 - 28 years old
 - System & Network Administrator
+- Speaks French/English
 - He/Him
 
 ### - Learning :
