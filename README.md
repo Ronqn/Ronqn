@@ -35,9 +35,6 @@
 <p>
  </br>
 
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Ronqn/Ronqn/blob/master/assets/PA.gif">
-
 Want to message me? Feel free to contact me directly on Github! ✔
 
 *************
