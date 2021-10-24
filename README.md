@@ -30,5 +30,3 @@
 # Get in touch :
 
 Want to message me? Feel free to contact me directly on Github! ✔
-
-*************
