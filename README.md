@@ -5,9 +5,6 @@
 </div>
 
 </br>
-</br>
-</br>
-
 
 # About ME 🏕 :
 
@@ -31,9 +28,6 @@
 </br>
 
 # Get in touch :
-
-<p>
- </br>
 
 Want to message me? Feel free to contact me directly on Github! ✔
 
