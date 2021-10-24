@@ -1,7 +1,7 @@
 # Bonjour !
 
 <div align="center">
-<img hight="281" width="500" alt="GIF" align="center" src="https://github.com/Ronqn/Ronqn/blob/master/assets/Dragon.gif>
+<img hight="281" width="500" alt="GIF" align="center" src="https://github.com/Ronqn/Ronqn/blob/master/assets/Dragon.gif">
 </div>
 
 </br>
