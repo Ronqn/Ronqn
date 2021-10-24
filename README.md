@@ -8,7 +8,7 @@
 
 # About ME 🏕 :
 
-### - I'm a 28 years old Systems Administrator from Switzerland
+### - 28 years old - Sysadmin from Switzerland
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Ronqn/Ronqn/blob/master/assets/NatureProphet.gif">
 
