@@ -14,7 +14,6 @@
 - 28 years old
 - System & Network Administrator
 - Speaks French/English
-- He/Him
 
 ### - Learning :
 - Python
@@ -24,7 +23,6 @@
 ### - Hobbies : 
 - Gaming
 - Warhammer
-- Anime
 - Open Source
 
 # Get in touch :
