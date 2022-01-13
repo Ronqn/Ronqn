@@ -11,7 +11,6 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Ronqn/Ronqn/blob/master/assets/NatureProphet.gif">
 
 ### - Who am I?
-- 28 years old
 - System & Network Administrator
 - Speaks French/English
 
