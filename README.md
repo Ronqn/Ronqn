@@ -9,4 +9,4 @@
 * 💬 Ask me about GNU/Linux, Windows (Servers & Clients), Fortigate, Cisco
 * 🌻 Pronouns: He/Him
 * 🌍 I speak French and English.
-
+* 🇺🇦 
