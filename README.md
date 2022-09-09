@@ -1,5 +1,3 @@
-![](/lain.gif)
-
 ### Hello, I'm Ronan!
 #### I am a Systems Administrator
 
