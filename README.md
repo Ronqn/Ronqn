@@ -7,4 +7,3 @@
 * 💬 Ask me about GNU/Linux, Windows (Servers & Clients), Fortigate, Cisco, Ruckus and more.
 * 🌍 I speak French, English and basic German.
 * 🕹 I'm a gamer (Dota, CS, Quake, WoW).
-* 🇺🇦 Слава Україні!
