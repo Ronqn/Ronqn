@@ -6,4 +6,4 @@
 * 👯 I’d love to collaborate on open-source projects
 * 💬 Ask me about GNU/Linux, Windows (Servers & Clients), Fortigate, Cisco, Ruckus and more.
 * 🌍 I speak French, English and basic German.
-* 🕹 I'm a gamer (WoW, Dota, Hunt:Showdown and more).
+* 🕹 I'm a gamer (MMORPG, FPS, MOBA and Fighting Games).
